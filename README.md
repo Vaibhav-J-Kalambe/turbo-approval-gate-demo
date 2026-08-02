@@ -1,1 +1,1 @@
-# turbo-approval-gate-demo
+Fixed a typo.
